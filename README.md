@@ -13,6 +13,9 @@ The Text sentance "Lets focus on the tasks next." was classefied as important. Y
 
 ## Screenshots
 
+![image info](./imgs/img_01.png)
+
+![image info](./imgs/img_02.png)
 
 
 
