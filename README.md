@@ -1,5 +1,5 @@
-# simple-nlp.js-example-text-classification
-Simple nlp.js Example Text Classification
+# Simple nlp.js Example Text Classification Model
+Simple nlp.js Example Text Classification. This repo is an easy example how to identify which sentance of a text is relevant. Text relevants detection also own as intent cclassification.
 
 ## Getting Started
 
