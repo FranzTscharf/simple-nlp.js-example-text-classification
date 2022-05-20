@@ -1,0 +1,25 @@
+{
+  "name": "nlpjs",
+  "version": "0.0.1",
+  "description": "A simple Node app to showcase how nlp.js works",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@nlpjs/basic": "^4.10.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/nlpjs"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "node-nlp",
+    "nlp.js"
+  ]
+}
